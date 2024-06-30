@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib pandas_ta
 
 2. **Run the script:**
    - Save the script given below in a Python file. For example, `trading_strategy.py`.
-   - Update the path of the CSV file in the script: `data = pd.read_csv("F:\\JOb Projects\\Python\\NSE_RELIANCE_EQ.csv")`.
+   - Update the path of the CSV file in the script: `data = pd.read_csv("F:\\Your\\File_path\\data.csv")`.
    - Run the script:
      ```bash
      python trading_strategy.py
