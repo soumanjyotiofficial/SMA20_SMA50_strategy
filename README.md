@@ -1,6 +1,3 @@
-This is a sample README file you can use for your trading strategy. It details the trading strategy, the implementation details of the attached script, and the output expected.
-
----
  Trading Strategy: 20 SMA and 50 SMA
 
 The program establishes a trading strategy based on 20-period and 50-period Simple Moving Averages. The script is supposed to process historical stock data, obtain trading signals according to a given strategy, and plot the equity curve of this strategy. This strategy was an inspiration from various concepts floated in the public domain, almost always through YouTube tutorials.
